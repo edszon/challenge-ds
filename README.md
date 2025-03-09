@@ -1,5 +1,5 @@
 # challenge-ds
-Deeper Systems Web Scraping Test
+Web Scraping Test
 
 # Sports Betting Scraper 🏀
 
