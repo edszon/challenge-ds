@@ -6,9 +6,9 @@ Deeper Systems Web Scraping Test
 A Python scraper using Selenium to extract sports betting data from [sportsbetting.dog](https://sportsbetting.dog).
 
 ## Features
-- Scrapes game data (moneylines, spreads, over/unders)
-- Parses event times to UTC ISO format
-- Outputs results as JSON
+Scrapes game data (moneylines, spreads, over/unders)
+Parses event times to UTC ISO format
+Outputs results as JSON
 
 ## Usage
 ```bash
