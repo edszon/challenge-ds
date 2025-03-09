@@ -3,7 +3,7 @@ Deeper Systems Web Scraping Test
 
 # Sports Betting Scraper 🏀
 
-A Python scraper using Selenium to extract sports betting data from [sportsbetting.dog](https://sportsbetting.dog).
+A Python scraper using Selenium to extract sports betting data.
 
 ## Features
 - Scrapes game data (moneylines, spreads, over/unders)
@@ -13,10 +13,10 @@ A Python scraper using Selenium to extract sports betting data from [sportsbetti
 ## Usage
 ```bash
 # Install dependencies
-pip install selenium
+pip install requirements.txt
 
 # Run scraper (example for basketball)
-python script.py
+python parse_veri_bet.py
 ```
 
 ## Output
